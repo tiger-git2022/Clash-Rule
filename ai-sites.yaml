@@ -1,0 +1,24 @@
+payload:
+  # 你已有的 AI 网站
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,aistudio.google.com
+
+  # 主流 AI 网站补全
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,huggingface.co
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,replicate.com
+  - DOMAIN-SUFFIX,stability.ai
+  - DOMAIN-SUFFIX,midjourney.com
+  - DOMAIN-SUFFIX,runwayml.com
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN,oauth2.googleapis.com
+  - DOMAIN,android.clients.google.com
+  - DOMAIN,play.googleapis.com
+  - DOMAIN-SUFFIX,ai.google.dev
