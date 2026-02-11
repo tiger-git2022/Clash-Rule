@@ -1,0 +1,18 @@
+payload:
+  # 你已有的网站
+  - DOMAIN-SUFFIX,dlsite.com
+  - DOMAIN-SUFFIX,dlsite.jp
+  - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,amazon.co.jp
+
+  # 主流日本网站补全
+  - DOMAIN-SUFFIX,yahoo.co.jp
+  - DOMAIN-SUFFIX,rakuten.co.jp
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nhk.or.jp
+  - DOMAIN-SUFFIX,goo.ne.jp
+  - DOMAIN-SUFFIX,pixiv.net
+  - DOMAIN-SUFFIX,livedoor.com
+  - DOMAIN-SUFFIX,cookpad.com
+  - DOMAIN-SUFFIX,hatenablog.com
+  - DOMAIN-SUFFIX,bookwalker.jp
