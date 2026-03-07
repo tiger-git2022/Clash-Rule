@@ -23,4 +23,3 @@ payload:
   - DOMAIN,android.clients.google.com
   - DOMAIN,play.googleapis.com
   - DOMAIN-SUFFIX,ai.google.dev
-  - DOMAIN-SUFFIX,aistudio.google.com
