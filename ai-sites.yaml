@@ -15,7 +15,6 @@ payload:
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,runwayml.com
   - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
@@ -24,3 +23,4 @@ payload:
   - DOMAIN,play.googleapis.com
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,clients6.google.com
+  - DOMAIN-SUFFIX, notebooklm.google
