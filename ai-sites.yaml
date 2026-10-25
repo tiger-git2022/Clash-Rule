@@ -23,5 +23,5 @@ payload:
   - DOMAIN,play.googleapis.com
   - DOMAIN-SUFFIX,ai.google.dev
   - DOMAIN-SUFFIX,clients6.google.com
-  - DOMAIN-SUFFIX, notebooklm.google
-  - DOMAIN-SUFFIX, notebooklm.google.com
+  - DOMAIN-SUFFIX,notebooklm.google
+  - DOMAIN-SUFFIX,notebooklm.google.com
